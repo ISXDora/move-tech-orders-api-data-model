@@ -34,5 +34,4 @@ Records items(id, order_id, sku, description, quantity) {
 }
 ```
 
-### Diagrama 
-<iframe width="560" height="315" src='https://dbdiagram.io/e/6a601f06067336e1dec767a1/6a601f12067336e1dec7681a'> </iframe>
+![Diagrama do modelo de dados](./Untitled.svg)
